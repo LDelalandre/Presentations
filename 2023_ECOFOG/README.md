@@ -1,8 +1,11 @@
 # ECOFOG 2023
 
 **Title**: Functional distinctiveness in ecological communities
+
 **Date**: March 16, 2023
+
 **Location**: Kourou, French Guyana
+
 **Conference**: Presentation to the lab
 
 ## Description

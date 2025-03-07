@@ -1,8 +1,11 @@
 # ECOVEG 2023
 
 **Title**: Les associations traits-environnement sont-elles modulées par l’histoire de vie des espèces ?
+
 **Date**: March 16, 2023
+
 **Location**: Marseille, France
+
 **Conference**: French conference on Plant Community Ecology
 
 ## Description
